@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arizalsandi](https://github.com/arizalsandi)
 
-- 💬 Ask me about **Python, SQL, Data Modelling, Data Architecture, Cloud, Automation**
+- 💬 Ask me about **Linux, Python, SQL, Data Modelling, Data Architecture, Cloud, Automation**
 
 - 📫 How to reach me **arizalsandi@gmail.com**
 
