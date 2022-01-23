@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad Arizal Sandi Syahputra</h1>
-<h3 align="center">A Support Engineer who interested with Data Field</h3>
+<h3 align="center">A Support Engineer who interested in Data, Cloud and Build some infrastructure from scratch</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arizalsandi&label=Profile%20views&color=0e75b6&style=flat" alt="arizalsandi" /> </p>
 
-- 🌱 I’m currently learning **Data Engineer**
+- 🌱 I’m currently learning **Data & Devops Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arizalsandi](https://github.com/arizalsandi)
 
-- 💬 Ask me about **Python, SQL, Data Modelling, Data Architecture**
+- 💬 Ask me about **Python, SQL, Data Modelling, Data Architecture, Cloud, Automation**
 
 - 📫 How to reach me **arizalsandi@gmail.com**
 
